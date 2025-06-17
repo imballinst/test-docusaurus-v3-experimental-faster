@@ -1,0 +1,5 @@
+@reference "../../../styles/custom.scss";
+
+.xdd {
+  @apply text-5xl;
+}

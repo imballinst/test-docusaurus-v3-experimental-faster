@@ -1,0 +1,8 @@
+@reference "../../../styles/custom.scss";
+
+.iconLanguage {
+  vertical-align: text-bottom;
+  margin-right: 5px;
+
+  @apply text-5xl;
+}
